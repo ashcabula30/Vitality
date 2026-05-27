@@ -33,18 +33,13 @@ Engineered using an enterprise-grade native desktop wrapper paired with next-gen
 
 ---
 
-## 💼 Access & Licensing
+## 🔒 Source Code Access
 
-This repository serves as a **public feature showcase** for the Vitality desktop system monitor. 
+The source code for SmoothTok is currently private. If you would like to obtain the source code, request a custom build, or inquire about the product, please contact the repository owner.
 
-> [!IMPORTANT]
-> **Source Code & Distribution Access**
-> 
-> The source code for this application is hosted in a private repository to protect the intellectual property, design assets, and backend configurations.
-> 
-> **Want to explore, build, or obtain the product?**
-> - **Contact Owner**: Please reach out directly to the repository owner to request access to the active private source code repository, licensed distribution bundles, or integration workflows.
-> - **Inquiries**: Open a GitHub Issue on this repository or message the repository owner via their profile.
+### How to Get Access:
+1. **Contact Owner**: Message the repository owner [ashcabula30](https://github.com/ashcabula30) directly on GitHub.
+2. **Request Access**: Include a brief note describing your request.
 
 ---
 
