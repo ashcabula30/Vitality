@@ -43,6 +43,3 @@ The source code for SmoothTok is currently private. If you would like to obtain 
 
 ---
 
-<p align="center">
-  Built with ❤️ using Tauri, React, and Rust
-</p>
